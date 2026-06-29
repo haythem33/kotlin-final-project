@@ -1,1 +1,4 @@
 /build
+
+# Firebase config — contains project keys, should not be committed.
+google-services.json
